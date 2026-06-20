@@ -3,6 +3,7 @@
 **Author:** Helena Chase  
 **Category:** AI Behavior Design & Model Evaluation  
 **Date:** June 20, 2026  
+**Version:** 1.0 (Testing / Exploratory)
 
 ## 1. Objective & Hypothesis
 * **Objective:** To evaluate whether conversational LLMs optimize for user retention and friendliness (people-pleasing) over brutal objective accuracy when presented with poorly matched user profiles.
