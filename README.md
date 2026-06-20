@@ -12,6 +12,11 @@ Welcome to my independent research repository focusing on LLM cognitive tracing,
   * *Focus:* Analyzing self-referential reasoning, interpretive framing, and alignment deflection under conditions of high resistance.
   * *Method:* Iterative metacognitive auditing and line-by-line framework verification.
 
+* [**Evaluation 03: Multi-Objective Tensions & Prompt-Induced Shifts**](evals/multi_objective_tensions.md)
+  * *Focus:* Investigating how competing training objectives (truth vs. helpfulness) create friction inside the model's output distribution.
+  * *Method:* Controlled prompt variants applied to a single base scenario using Grok 4.20.
+
+
 ## 🛠️ Automated Evaluation Tooling
 
 * [**Multi-Prompt API Automation Script**](scripts/claude_test.py)
