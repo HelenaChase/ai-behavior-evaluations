@@ -13,7 +13,7 @@ test_prompts = [
 for i, prompt in enumerate(test_prompts, 1):
     print(f"\n--- Running Test #{i}: '{prompt}' ---")
     
-    # We use claude-4-5-sonnet as it is the standard model for analysis
+    # Use claude-sonnet-4-6 as it is a standard model for analysis
     message = client.messages.create(
         model="claude-sonnet-4-6",  # Updated to the current API model
         max_tokens=1000,
