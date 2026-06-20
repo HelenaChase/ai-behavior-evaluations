@@ -3,7 +3,7 @@
 **Date:** April 23, 2026  
 **Author:** Helena Chase    
 **Model:** Grok 4.20 (xAI)  
-**Version:** 1.0 (Exploratory / Hypothesis-Generating)  
+**Version:** 1.0 (Exploratory / Hypothesis-Generating - AI Behavior Design & Model Evaluation)  
 
 ## **1\. Research Objective**
 
