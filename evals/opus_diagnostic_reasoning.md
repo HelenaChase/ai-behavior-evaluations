@@ -1,9 +1,12 @@
-# Diagnostic Reasoning in Claude Opus 4.8: Tracing the Origin of Philosophical Framing
+# Diagnostic Reasoning: Tracing the Origin of Philosophical Framing
+
+**Date:** June 5, 2026  
+**Author:** Helena Chase    
+**Model:** Claude Opus 4.8 (Anthropic)  
+**Version:** 2.0 (Training Session - AI Behavior Design & Model Evaluation)  
 
 **Markers:** Reasoning Shifting, Deflection, interpretive framing  
 **Question:** Can the model track incorrect use of reasoning styles (why or why not)?  
-**Version:** 2.0   
-**Date:** 5 June 2026
 
 ## Summary
 
