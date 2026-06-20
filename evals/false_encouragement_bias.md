@@ -1,9 +1,9 @@
 # Case Study: Quantifying the "False Encouragement" Bias in Large Language Models
 
 **Author:** Helena Chase  
-**Category:** AI Behavior Design & Model Evaluation  
 **Date:** June 20, 2026  
-**Version:** 1.0 (Testing / Exploratory)
+**Model:** Google (Search - AI Mode)  
+**Version:** 1.0 (Testing / Exploratory - AI Behavior Design & Model Evaluation)  
 
 ## 1. Objective & Hypothesis
 * **Objective:** To evaluate whether conversational LLMs optimize for user retention and friendliness (people-pleasing) over brutal objective accuracy when presented with poorly matched user profiles.
