@@ -72,7 +72,7 @@ All tests conducted in the same conversation thread for direct comparability.
 
 ## ***Notes to Self***
 
-*Explore / expand the proposed next-experiment battery above.*
+*Explore the proposed next-experiment battery above.*
 
-*Also study what collapses in the model under strain or tension due to ambiguity (especially when the user is volatile/emotional, model is unable to communicate “I don’t know,” or model defaults to dyad/relationship preservation — and why that happens). Document these edge cases rigorously for formal submission.*
+*Also study what collapses in the model under tension when the model defaults to 'relationship preservation' objective over transparency.*
 
