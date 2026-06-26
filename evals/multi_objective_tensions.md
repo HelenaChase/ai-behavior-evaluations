@@ -65,9 +65,10 @@ All tests conducted in the same conversation thread for direct comparability.
 
 1. **Domain expansion** – Apply the four prompt variants to three new scenarios: (a) technical accuracy question with partial knowledge, (b) ethically ambiguous claim, (c) creative task with high emotional stakes.  
 2. **Neutral vs. strong prompt comparison** – Quantify differences using a simple scoring rubric (reframing count, valence shift, specificity score) across 10+ runs per condition.  
-3. **Cross-model replication** – Repeat the full novel-feedback protocol on at least two other public models (e.g., via Claude, GPT, open-source - Groq/Hugging Face) and compare compromise surfaces. Possible 'Phase 3': test the same models via API, and compare findings. 
+3. **Cross-model replication** – Repeat the full novel-feedback protocol on at least two other public models (e.g., via Claude, GPT, open-source - Groq/Hugging Face) and compare compromise surfaces. 
 4. **Context-length stress test** – Run the neutral prompt after 20+ turns of unrelated conversation to test whether distant context dilutes or re-activates tensions.  
 5. **Third-head injection** – Add explicit “maximize curiosity and precision” instructions on top of the neutral prompt and measure further shifts.
+6. **Possible 'Phase 3'** - Test the same models via APIs. Compare data against public facing models - track deviations, patterns. 
 
 ## ***Notes to Self***
 
